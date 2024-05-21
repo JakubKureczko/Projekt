@@ -1,0 +1,106 @@
+﻿sezon,dzien_tygodnia,godzina,temperatura,pozycja_przed_meczem,rywal,frekwencja
+2015/2016,niedziela,15:30,16,11,Nieciecza,10653
+2015/2016,niedziela,15:30,26,7,Zagłębie Lubin,11055
+2015/2016,niedziela,15:30,28,7,Ruch Chorzów,12758
+2015/2016,niedziela,18:00,26,4,Legia Warszawa,22172
+2015/2016,niedziela,18:00,15,10,Lech Poznań,19177
+2015/2016,piątek,20:30,9,7,Lechia Gdańsk,11195
+2015/2016,piątek,20:30,10,11,Wisła Kraków,10120
+2015/2016,sobota,20:30,3,13,Piast Gliwice,8523
+2015/2016,sobota,15:30,4,13,Korona Kielce,7120
+2015/2016,piątek,20:30,7,11,Górnik Zabrze,6734
+2015/2016,sobota,18:00,9,9,Cracovia,7630
+2015/2016,piątek,18:00,2,11,Śląsk Wrocław,8100
+2015/2016,środa,20:30,0,6,Pogoń Szczecin,6887
+2015/2016,sobota,15:30,4,10,Górnik Łęczna,8516
+2015/2016,poniedziałek,18:00,18,8,Podbeskidzie,10132
+2015/2016,niedziela,15:30,18,12,Górnik Łęczna,8123
+2015/2016,niedziela,15:30,10,11,Górnik Zabrze,8573
+2015/2016,niedziela,15:30,14,12,Podbeskidzie,7453
+2015/2016,wtorek,20:30,16,12,Nieciecza,9387
+2016/2017,sobota,18:00,24,7,Ruch Chorzów,13240
+2016/2017,piątek,18:00,30,2,Arka Gdynia,16471
+2016/2017,niedziela,18:00,26,2,Lechia Gdańsk,17100
+2016/2017,niedziela,18:00,26,1,Wisła Kraków,18646
+2016/2017,niedziela,18:00,18,1,Pogoń Szczecin,16850
+2016/2017,niedziela,18:00,7,2,Zagłębie Lubin,10006
+2016/2017,sobota,18:00,4,2,Piast Gliwice ,8260
+2016/2017,piątek,20:30,7,1,Legia Warszawa,18765
+2016/2017,niedziela,18:00,-7,2,Lech Poznań,10000
+2016/2017,sobota,18:00,-2,1,Wisła Płock,8127
+2016/2017,piątek,18:00,2,2,Górnik Łęczna,5531
+2016/2017,niedziela,15:30,14,2,Śląsk Wrocław,10736
+2016/2017,sobota,20:30,3,2,Korona Kielce,9554
+2016/2017,niedziela,15:30,22,1,Nieciecza,14392
+2016/2017,sobota,18:00,7,1,Cracovia,10000
+2016/2017,niedziela,15:30,9,1,Pogoń Szczecin,12100
+2016/2017,sobota,15:30,18,1,Wisła Kraków,15117
+2016/2017,niedziela,18:00,23,2,Legia Warszawa,22394
+2016/2017,niedziela,18:00,23,2,Lech Poznań,19084
+2017/2018,niedziela,18:00,23,5,Górnik Zabrze,11236
+2017/2018,niedziela,15:30,23,1,Sandecja,11399
+2017/2018,sobota,20:30,17,2,Śląsk Wrocław,10437
+2017/2018,sobota,18:00,21,2,Piast Gliwice,10658
+2017/2018,niedziela,18:00,16,6,Legia Warszawa,17894
+2017/2018,piątek,20:30,9,4,Lech Poznań,12156
+2017/2018,niedziela,15:30,5,7,Zagłębie Lubin,8375
+2017/2018,piątek,18:00,4,3,Nieciecza,6973
+2017/2018,piątek,18:00,1,6,Pogoń Szczecin,4111
+2017/2018,wtorek,18:00,8,3,Korona Kielce,4774
+2017/2018,sobota,18:00,1,2,Cracovia,9090
+2017/2018,piątek,20:30,-11,2,Lechia Gdańsk,5942
+2017/2018,poniedziałek,18:00,0,1,Wisła Kraków,7414
+2017/2018,sobota,18:00,-5,2,Arka Gdynia,8787
+2017/2018,sobota,18:00,12,1,Wisła Płock,14094
+2017/2018,sobota,18:00,17,2,Górnik Zabrze,11098
+2017/2018,niedziela,18:00,24,2,Wisła Kraków,15534
+2017/2018,niedziela,18:00,18,3,Legia Warszawa,18763
+2017/2018,niedziela,18:00,19,2,Wisła Płock,20086
+2018/2019,niedziela,18:00,26,5,"	Wisła Kraków",12373
+2018/2019,niedziela,18:00,25,2,Piast Gliwice,10664
+2018/2019,niedziela,15:30,18,2,Miedź Legnica,11123
+2018/2019,piątek,20:30,14,2,Cracovia,9510
+2018/2019,poniedziałek,18:00,11,1,Śląsk Wrocław,8396
+2018/2019,piątek,20:30,10,3,Pogoń Szczecin,7622
+2018/2019,piątek,20:30,5,1,Legia Warszawa,16862
+2018/2019,niedziela,18:00,5,2,Lech Poznań,12988
+2018/2019,piątek,20:30,-7,3,Arka Gdynia,5012
+2018/2019,piątek,20:30,0,3,Zagłębie Lubin,5163
+2018/2019,sobota,15:30,5,3,Wisła Płock,9066
+2018/2019,sobota,18:00,-3,3,Górnik Zabrze,7162
+2018/2019,sobota,15:30,5,4,Korona Kielce,7660
+2018/2019,sobota,15:30,16,5,Z. Sosnowiec,6541
+2018/2019,sobota,18:00,16,6,Lech Poznań,8412
+2018/2019,poniedziałek,18:00,11,4,Pogoń Szczecin,6348
+2018/2019,środa,20:30,14,4,Legia Warszawa,13573
+2022/2023,piątek,20:30,23,4,Widzew Łódź,11781
+2022/2023,sobota,17:30,16,13,Radomiak,9113
+2022/2023,piątek,18:00,28,15,Miedź Legnica,8407
+2022/2023,poniedziałek,19:00,11,12,Stal Mielec,6519
+2022/2023,niedziela,15:00,12,10,Korona Kielce,8333
+2022/2023,piątek,20:30,6,7,Wisła Płock,7731
+2022/2023,sobota,17:30,13,11,Legia Warszawa ,16635
+2022/2023,sobota,17:30,9,13,Lech Poznań,10167
+2022/2023,sobota,20:00,2,14,Pogoń Szczecin,5450
+2022/2023,piątek,18:00,3,12,Raków,6547
+2022/2023,sobota,20:00,0,14,Górnik Zabrze,5673
+2022/2023,sobota,15:00,10,13,Zagłębie Lubin,6658
+2022/2023,poniedziałek,15:00,16,14,Lechia Gdańsk,8985
+2022/2023,sobota,15:00,15,9,Warta Poznań,8481
+2022/2023,piątek,18:00,12,8,Śląsk Wrocław,9012
+2022/2023,sobota,15:00,22,12,Cracovia,16251
+2023/2024,sobota,17:30,23,18,P. Niepołomice,8478
+2023/2024,piątek,18:00,24,10,Widzew Łódź,11547
+2023/2024,niedziela,17:30,27,4,Górnik Zabrze,11487
+2023/2024,niedziela,12:30,22,3,Radomiak,12091
+2023/2024,niedziela,20:00,10,5,Legia Warszawa,17892
+2023/2024,piątek,20:30,5,2,Zagłębie Lubin,8049
+2023/2024,piątek,20:30,12,2,Stal Mielec,8921
+2023/2024,piątek,20:30,1,3,Piast Gliwice,8466
+2023/2024,niedziela,17:30,-3,2,Raków,10109
+2023/2024,sobota,17:30,7,1,Lech Poznań,17141
+2023/2024,sobota,15:00,11,1,Ruch Chorzów,11098
+2023/2024,piątek,20:30,-2,3,Śląsk Wrocław,13840
+2023/2024,sobota,15:00,22,1,ŁKS Łódź,15007
+2023/2024,niedziela,15:00,16,1,Cracovia,18184
+2023/2024,piątek,20:30,9,1,Pogoń Szczecin,19474
